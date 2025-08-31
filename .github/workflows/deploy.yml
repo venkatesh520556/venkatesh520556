@@ -1,0 +1,48 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches:
+      - main  # or your default branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'  # use your project Node version
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build project
+        run: |
+          npm run build || echo "Build failed or dist folder not generated"
+
+      - name: Check if build folder exists
+        id: check
+        run: |
+          if [ -d "dist" ]; then
+            echo "BUILD_EXISTS=true" >> $GITHUB_ENV
+          else
+            echo "BUILD_EXISTS=false" >> $GITHUB_ENV
+          fi
+
+      - name: Deploy to GitHub Pages
+        if: env.BUILD_EXISTS == 'true'
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          allow_empty_commit: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Skip deploy if build folder is missing
+        if: env.BUILD_EXISTS == 'false'
+        run: echo "No build folder found, skipping deployment"
