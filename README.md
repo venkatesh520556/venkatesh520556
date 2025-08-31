@@ -42,14 +42,8 @@
 ---
 
 ### 
-<h2 align="center">⚡ Stormbreaker Snake Animation ⚡</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/venkatesh520556/venkatesh520556/output/stormbreaker-snake.svg" alt="Stormbreaker Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/venkatesh520556/venkatesh520556/output/stormbreaker-snake-dark.svg" alt="Stormbreaker Snake Dark"/>
+  <img src="https://raw.githubusercontent.com/venkatesh520556/venkatesh520556/output/github-contribution-grid-snake-colorful.svg" alt="snake animation" />
 </p>
 
 ---
