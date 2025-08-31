@@ -3,7 +3,7 @@
 
 ---
 
-<h1 align="center">⚡ Venkatesh | Avengers-level Developer ⚡</h1>
+<h1 align="center">⚡ Venkatesh | Developer ⚡</h1>
 <h3 align="center">“I build code like Iron Man builds suits.” 🦾</h3>
 
 ---
