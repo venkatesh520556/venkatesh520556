@@ -1,32 +1,75 @@
-<h1 align="center">Hi 👋, I'm Venkateswarlu Kasireddy</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&lines=🔥+Welcome+to+Venkatesh's+Multiverse;🚀+Full+Stack+Developer+%7C+AI+Enthusiast;⚡+Building+Tech+Like+Tony+Stark;🛡️+Open+Source+Hero;🌌+Dreaming+Beyond+the+Stars" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh520556&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh520556" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatesh520556" alt="venkatesh520556" /></a> </p>
+<h1 align="center">⚡ Venkatesh | Avengers-level Developer ⚡</h1>
+<h3 align="center">“I build code like Iron Man builds suits.” 🦾</h3>
 
-- 🔭 I’m currently working on **Cloud Technologies**
+---
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+### 🌀 About Me (Origin Story)
+- 🛡️ Tech Superpowers: **Full-Stack Development | AI | Cloud | DSA**
+- ⚡ Weakness: *Coffee ☕ → More Bugs 🐛*
+- 🧩 Mission: *Turn ideas into futuristic tech.*
+- 🌌 Motto: *Set your heart ablaze 🔥 and code like a hero.*
 
-- 👯 I’m looking to collaborate on **Full stack Projects**
+---
 
-- 📫 How to reach me **venkateswarlu.kasireddy18@gmail.com**
-
-- ⚡ Fun fact **I am always depressed**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kasired85061173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasired85061173" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/venkateswarlu-kasireddy-51a5b0197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkateswarlu-kasireddy-51a5b0197/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pixelsap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pixelsap/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/vijayarjun817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vijayarjun817" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/venkatesh556/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/venkatesh556/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vijayarjun817/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vijayarjun817/" height="30" width="40" /></a>
+### 🛠️ My Arsenal (Tech Stack)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,java,ts,js,html,css,tailwind,redux,mysql,mongodb,docker,gcp,git,github" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/pixelsap"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pixelsap" /></a></p><br><br>
+### 📊 Power Levels (Stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=venkatesh520556&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatesh520556&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=FF0000&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh520556&layout=compact&theme=radical&hide_border=true&title_color=FF0000&bg_color=0D1117" />
+</p>
+
+---
+
+### 🐍 Epic Snake of Time
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venkatesh520556/venkatesh520556/output/github-contribution-grid-snake-colorful.svg" alt="snake gif" />
+</p>
+
+---
+
+### 🎬 Cinematic Animations
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="500" alt="Coding Hero"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/khalby786/khalby786/raw/master/assets/ironman.gif" width="300" alt="Iron Man AI"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"/>
+</p>
+
+---
+
+### 🌍 Assemble With Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://instagram.com/your-handle"><img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkatesh520556&label=Profile+Views&color=FF0000&style=for-the-badge" />
+</p>
