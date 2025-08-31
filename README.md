@@ -63,9 +63,8 @@
 ### 🌍 Assemble With Me
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://instagram.com/your-handle"><img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://x.com/Kasired85061173"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="mailto:venkateswarlu.kasireddy18@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
