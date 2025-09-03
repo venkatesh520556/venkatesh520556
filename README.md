@@ -12,16 +12,15 @@
 ---
 
 ### 🌀 About Me 
-- 🛡️ Tech Superpowers: **Full-Stack Development | AI | Cloud | DSA**
-- ⚡ Weakness: *Coffee ☕ → More Bugs 🐛*
-- 🧩 Mission: *Turn ideas into futuristic tech.*
+👨‍💻 I’m a passionate software developer who loves turning ideas into impactful solutions. With a strong problem-solving mindset and curiosity for new technologies, I enjoy building applications, exploring cloud innovations ☁️, and constantly learning to grow as a developer 🚀
+- 🛡️ Tech : **Full-Stack Development | AI | Cloud | DSA**
 - 🌌 Motto: *Set your heart ablaze 🔥 and code like a hero.*
 
 ---
 
 ### 🛠️ (Tech Stack)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,java,ts,js,html,css,tailwind,redux,mysql,mongodb,docker,gcp,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,java,ts,js,html,css,tailwind,redux,mysql,mongodb,gcp,git,github,ai" />
 </p>
 
 ---
